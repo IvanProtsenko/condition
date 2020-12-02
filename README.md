@@ -1,13 +1,5 @@
-two terminals
+# to start - create two terminals
 
-1. cd client
+1 terminal - cd client, npm i, npm run serve
 
-npm i
-
-npm run serve
-
-2. cd server
-
-npm i
-
-npm start
+2 terminal - cd server, npm i, npm start
